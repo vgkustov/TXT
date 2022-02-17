@@ -1,0 +1,5 @@
+Name: Vyscheslav Kustov
+Age: 37
+Pets: 3
+Suggested Salary: 100000 RUR
+
