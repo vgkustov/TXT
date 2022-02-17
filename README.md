@@ -11,7 +11,7 @@
 
 3. Внутри локального TXT создать файл “new.txt”.
 
-<touch next.txt>
+> touch next.txt
 
 4. Добавить файл под гит.
 
