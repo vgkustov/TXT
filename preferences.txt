@@ -1,0 +1,9 @@
+My preferences
+
+Movie: 		"Snatch"
+TV Series: 	"Sons of Anarchy"
+Food: 		"Steak"
+Season: 	"Summer"
+Country: 	"Scotland"
+
+
